@@ -7,7 +7,7 @@
 
 I'm
 Full Stack Solution Architect
-The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. This is a project that demonstrates my abilities and knowledge as a full stack developer. It is a web application that enables users to perform various tasks online. It uses different technologies for the front-end, back-end, database, and analytics.
+The crossover between design & programming has always been of interest to me and I've been lucky enough to work alongside some talented teams on a number of high profile projects. This is a repository that demonstrates my abilities and knowledge as a full stack developer. It uses different technologies for the front-end, back-end, database, and analytics.
 
 
 ![Visitor Count](https://profile-counter.glitch.me/vipdeo308/count.svg)
