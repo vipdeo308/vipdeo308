@@ -1,13 +1,11 @@
-### Hi Developers 👋
+### Hello Developers 👋
 
 [![YouTube Badge](https://img.shields.io/badge/YouTube-Vipul-red)](https://www.youtube.com/channel/UCuMqvJn_Twr5fjp3wvfjXPA)
 [![Linkedin Badge](https://img.shields.io/badge/-Vipul-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vipul-deorani-95759370/)](https://www.linkedin.com/in/vipul-deorani-95759370/)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Vipul-yellow)](https://stackoverflow.com/users/14594508/vipul-deorani)
 [![Website Badge](https://img.shields.io/badge/WebSite-Vipul-green)](https://vipul-deorani.blogspot.com)
 
-I'm
-Full Stack Solution Architect
-The crossover between design & programming has always been of interest to me and I've been lucky enough to work alongside some talented teams on a number of high profile projects. This is a repository that demonstrates my abilities and knowledge as a full stack developer. It uses different technologies for the front-end, back-end, database, and analytics.
+I'm a Full Stack Developer.The crossover between design & programming has always been of interest to me and I've been lucky enough to work alongside some talented teams on a number of high profile projects. This is a repository that demonstrates my abilities and knowledge as a full stack developer. It uses different technologies for the front-end, back-end, database, and analytics.
 
 
 ![Visitor Count](https://profile-counter.glitch.me/vipdeo308/count.svg)
