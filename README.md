@@ -1,9 +1,9 @@
 ### Hi Developers 👋
 
-[![YouTube Badge](https://img.shields.io/badge/YouTube-PoonamChauhan-red)](https://www.youtube.com/@ms.poonamchauhan743)
-[![Linkedin Badge](https://img.shields.io/badge/-Poonam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/poonam-chauhan-64a97159/)](https://www.linkedin.com/in/poonam-chauhan-64a97159/)
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Poonam-yellow)](https://stackoverflow.com/users/18828160/poonam-chauhan)
-[![Website Badge](https://img.shields.io/badge/WebSite-Poonam-green)](https://poonamchauhan229.github.io/Portfolio_Website/)
+[![YouTube Badge](https://img.shields.io/badge/YouTube-Vipul-red)](https://www.youtube.com/channel/UCuMqvJn_Twr5fjp3wvfjXPA)
+[![Linkedin Badge](https://img.shields.io/badge/-Vipul-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vipul-deorani-95759370/)](https://www.linkedin.com/in/vipul-deorani-95759370/)
+[![Website Badge](https://img.shields.io/badge/StackOverflow-Vipul-yellow)](https://stackoverflow.com/users/14594508/vipul-deorani)
+[![Website Badge](https://img.shields.io/badge/WebSite-Vipul-green)](https://vipul-deorani.blogspot.com)
 
 I'm
 Full Stack Solution Architect
@@ -15,7 +15,7 @@ The crossover between design and programming has always been of interest to me, 
 <div>
   <h4>🏆 Github Profile Trophy</h4>
   <a href="https://github.com/ryo-ma/github-profile-trophy">    
-    <img src="https://github-profile-trophy.vercel.app/?username=poonamchauhan229&column=7"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=vipdeo308&column=7"/>
   </a>
 </div>
 
